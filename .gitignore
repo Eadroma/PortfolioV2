@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# misc
+.DS_Store
+*.pem
+*.local
+.env
+.env.*
+!.env.example
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# Claude / local tooling
+.claude/
+.mcp.json
+C:*

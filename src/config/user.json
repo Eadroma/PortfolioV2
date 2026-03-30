@@ -1,0 +1,165 @@
+{
+  "name": "Saif Boukottaya",
+  "tag": "#0001",
+  "avatar": "https://images.unsplash.com/photo-1724654814378-108c93f5fa54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "status": "online",
+  "githubUsername": "eadroma",
+  "githubUrl": "https://github.com/eadroma",
+  "contactEmail": "boukottaya.jr@gmail.com",
+  "phone": "+33 7 66 07 47 88",
+  "linkedinUrl": "https://www.linkedin.com/in/saif-boukottaya",
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Vue.js"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "GraphQL"]
+    },
+    {
+      "category": "Infra & Tools",
+      "items": ["Vercel", "Docker", "Git", "GitHub", "Gitlab", "Jira", "Notion", "Stripe", "Supabase"]
+    }
+  ],
+  "i18n": {
+    "en": {
+      "role": "Frontend Developer",
+      "bio": "Passionate frontend developer dedicated to creating exceptional user experiences. I love turning ideas into reality through code.",
+      "location": "Marseille, France",
+      "labels": {
+        "contact": "Contact",
+        "experience": "Experience",
+        "skillsTitle": "Skills & Tech",
+        "topRepos": "Top Repositories",
+        "searchRepos": "Search repositories...",
+        "featured": "Featured",
+        "availability": "Currently available for freelance and full-time opportunities",
+        "availableBtn": "Hire Me",
+        "langToggle": "FR",
+        "openToWork": "Open to Work",
+        "noRepos": "No repositories found matching",
+        "loadingRepos": "Loading repositories...",
+        "errorRepos": "Could not load repositories"
+      },
+      "experiences": [
+        {
+          "role": "Frontend Developer",
+          "company": "Smart Tribune",
+          "period": "Nov 2022 - Present",
+          "description": "Building and maintaining scalable frontend applications, improving performance and user experience across multiple products.",
+          "url": "https://fr.smart-tribune.com"
+        },
+        {
+          "role": "Full Stack Developer",
+          "company": "Reeasy",
+          "period": "Apr 2021 - Apr 2022",
+          "description": "Developed full-stack features for a real estate platform using React, Node.js and PostgreSQL.",
+          "url": "https://reeasy-reactwebsite.vercel.app"
+        },
+        {
+          "role": "Full Stack Developer",
+          "company": "Access IT",
+          "period": "Mar 2020 - Feb 2021",
+          "description": "Delivered web applications and internal tools for enterprise clients.",
+          "url": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Portfolio V1",
+          "type": "Web App",
+          "image": "https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "My first developer portfolio built with React, TypeScript and Vite. Features a Discord-inspired design with bilingual support.",
+          "tech": "React, TypeScript, Vite, Tailwind CSS",
+          "url": "https://github.com/boukottaya"
+        },
+        {
+          "title": "FinanceFlow AI",
+          "type": "Mobile App",
+          "image": "https://images.unsplash.com/photo-1616077168079-7e09a677fb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Personal finance tracker with AI-driven insights, automatic budgeting tools, and secure expense categorization.",
+          "tech": "React Native, GraphQL, AWS",
+          "url": "#"
+        },
+        {
+          "title": "DevMetrics Dashboard",
+          "type": "Developer Tool",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Developer productivity tool that integrates with GitHub and Jira to provide actionable metrics and team performance insights.",
+          "tech": "Next.js, PostgreSQL, Docker",
+          "url": "#"
+        }
+      ]
+    },
+    "fr": {
+      "role": "Développeur Frontend",
+      "bio": "Développeur frontend passionné par la création d'expériences utilisateur exceptionnelles. J'aime transformer les idées en réalité grâce au code.",
+      "location": "Marseille, France",
+      "labels": {
+        "contact": "Contact",
+        "experience": "Expérience",
+        "skillsTitle": "Compétences & Tech",
+        "topRepos": "Meilleurs Dépôts",
+        "searchRepos": "Rechercher des dépôts...",
+        "featured": "En vedette",
+        "availability": "Actuellement disponible pour des missions freelance ou temps plein",
+        "availableBtn": "M'embaucher",
+        "langToggle": "EN",
+        "openToWork": "Disponible",
+        "noRepos": "Aucun dépôt trouvé pour",
+        "loadingRepos": "Chargement des dépôts...",
+        "errorRepos": "Impossible de charger les dépôts"
+      },
+      "experiences": [
+        {
+          "role": "Développeur Frontend",
+          "company": "Smart Tribune",
+          "period": "Nov 2022 - Présent",
+          "description": "Développement et maintenance d'applications frontend scalables, amélioration des performances et de l'expérience utilisateur.",
+          "url": "https://fr.smart-tribune.com"
+        },
+        {
+          "role": "Développeur Full Stack",
+          "company": "Reeasy",
+          "period": "Avr 2021 - Avr 2022",
+          "description": "Développement de fonctionnalités full-stack pour une plateforme immobilière avec React, Node.js et PostgreSQL.",
+          "url": "https://reeasy-reactwebsite.vercel.app"
+        },
+        {
+          "role": "Développeur Full Stack",
+          "company": "Access IT",
+          "period": "Mar 2020 - Fév 2021",
+          "description": "Livraison d'applications web et d'outils internes pour des clients entreprise.",
+          "url": null
+        }
+      ],
+      "projects": [
+        {
+          "title": "Portfolio V1",
+          "type": "Application Web",
+          "image": "https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Mon premier portfolio développeur construit avec React, TypeScript et Vite. Design inspiré de Discord avec support bilingue.",
+          "tech": "React, TypeScript, Vite, Tailwind CSS",
+          "url": "https://github.com/boukottaya"
+        },
+        {
+          "title": "FinanceFlow AI",
+          "type": "Application Mobile",
+          "image": "https://images.unsplash.com/photo-1616077168079-7e09a677fb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Suivi des finances personnelles avec des conseils basés sur l'IA, des outils de budgétisation et une catégorisation des dépenses.",
+          "tech": "React Native, GraphQL, AWS",
+          "url": "#"
+        },
+        {
+          "title": "Tableau de bord DevMetrics",
+          "type": "Outil Développeur",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Outil de productivité qui s'intègre à GitHub et Jira pour fournir des métriques exploitables et des aperçus de l'équipe.",
+          "tech": "Next.js, PostgreSQL, Docker",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}

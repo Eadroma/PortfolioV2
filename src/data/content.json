@@ -1,0 +1,245 @@
+{
+  "profile": {
+    "name": "Alex Developer",
+    "tag": "#0001",
+    "avatar": "https://images.unsplash.com/photo-1724654814378-108c93f5fa54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "status": "online",
+    "githubUrl": "https://github.com",
+    "contactEmail": "alex@example.com",
+    "linkedinUrl": "https://linkedin.com"
+  },
+  "skills": [
+    "React",
+    "TypeScript",
+    "Next.js",
+    "Tailwind CSS",
+    "Node.js",
+    "PostgreSQL",
+    "Motion",
+    "GraphQL",
+    "Docker",
+    "AWS"
+  ],
+  "i18n": {
+    "en": {
+      "nav": {
+        "home": "Home",
+        "projects": "Projects",
+        "skills": "Skills",
+        "contact": "Contact"
+      },
+      "profile": {
+        "role": "Full Stack Engineer",
+        "bio": "Building digital products with a focus on polished user interfaces and scalable architecture.",
+        "location": "San Francisco, CA"
+      },
+      "labels": {
+        "contact": "Contact",
+        "experience": "Experience",
+        "skillsTitle": "Skills & Tech",
+        "topRepos": "Top Repositories",
+        "searchRepos": "Search repositories...",
+        "featured": "Featured",
+        "availability": "Currently available for freelance and full-time opportunities",
+        "availableBtn": "Hire Me",
+        "langToggle": "FR",
+        "openToWork": "Open to Work",
+        "noRepos": "No repositories found matching"
+      },
+      "projects": [
+        {
+          "title": "Taskify Workspace",
+          "type": "Web App",
+          "image": "https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "A comprehensive task management platform featuring real-time collaboration, drag-and-drop Kanban boards, and insightful performance analytics for modern teams.",
+          "tech": "React, Node.js, Socket.io, Tailwind CSS",
+          "url": "#"
+        },
+        {
+          "title": "FinanceFlow AI",
+          "type": "Mobile App",
+          "image": "https://images.unsplash.com/photo-1616077168079-7e09a677fb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Personal finance tracker with AI-driven insights, automatic budgeting tools, and secure expense categorization.",
+          "tech": "React Native, GraphQL, AWS",
+          "url": "#"
+        },
+        {
+          "title": "DevMetrics Dashboard",
+          "type": "Developer Tool",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Developer productivity tool that integrates with GitHub and Jira to provide actionable metrics and team performance insights.",
+          "tech": "Next.js, PostgreSQL, Docker",
+          "url": "#"
+        }
+      ],
+      "experiences": [
+        {
+          "role": "Senior Frontend Engineer",
+          "company": "TechCorp",
+          "period": "2023 - Present",
+          "description": "Leading the core UI team, improving rendering performance by 40%."
+        },
+        {
+          "role": "Web Developer",
+          "company": "Creative Agency",
+          "period": "2021 - 2023",
+          "description": "Built interactive web experiences and dashboards for multiple clients."
+        },
+        {
+          "role": "Junior Developer",
+          "company": "Startup Inc",
+          "period": "2019 - 2021",
+          "description": "Developed responsive landing pages and internal admin tools."
+        }
+      ],
+      "repos": [
+        {
+          "name": "discord-clone",
+          "description": "A fully functional Discord clone built with React and real-time sockets.",
+          "stars": 128,
+          "forks": 32,
+          "language": "TypeScript",
+          "languageColor": "#3178C6",
+          "url": "#"
+        },
+        {
+          "name": "modern-portfolio",
+          "description": "A sleek, dark-themed developer portfolio dashboard.",
+          "stars": 85,
+          "forks": 12,
+          "language": "TypeScript",
+          "languageColor": "#3178C6",
+          "url": "#"
+        },
+        {
+          "name": "react-masonry-grid",
+          "description": "A lightweight masonry layout component for React.",
+          "stars": 45,
+          "forks": 8,
+          "language": "JavaScript",
+          "languageColor": "#F1E05A",
+          "url": "#"
+        },
+        {
+          "name": "terminal-ui",
+          "description": "Command-line interface styling for web applications.",
+          "stars": 210,
+          "forks": 45,
+          "language": "CSS",
+          "languageColor": "#563D7C",
+          "url": "#"
+        }
+      ]
+    },
+    "fr": {
+      "nav": {
+        "home": "Accueil",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "contact": "Contact"
+      },
+      "profile": {
+        "role": "Ingénieur Full Stack",
+        "bio": "Création de produits numériques avec un accent sur les interfaces utilisateur soignées et une architecture évolutive.",
+        "location": "Paris, France"
+      },
+      "labels": {
+        "contact": "Contact",
+        "experience": "Expérience",
+        "skillsTitle": "Compétences & Tech",
+        "topRepos": "Meilleurs Dépôts",
+        "searchRepos": "Rechercher des dépôts...",
+        "featured": "En vedette",
+        "availability": "Actuellement disponible pour des missions freelance ou temps plein",
+        "availableBtn": "M'embaucher",
+        "langToggle": "EN",
+        "openToWork": "Disponible",
+        "noRepos": "Aucun dépôt trouvé pour"
+      },
+      "projects": [
+        {
+          "title": "Espace Taskify",
+          "type": "Application Web",
+          "image": "https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Une plateforme complète de gestion de tâches offrant une collaboration en temps réel, des tableaux Kanban interactifs et des analyses de performance.",
+          "tech": "React, Node.js, Socket.io, Tailwind CSS",
+          "url": "#"
+        },
+        {
+          "title": "FinanceFlow AI",
+          "type": "Application Mobile",
+          "image": "https://images.unsplash.com/photo-1616077168079-7e09a677fb2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Suivi des finances personnelles avec des conseils basés sur l'IA, des outils de budgétisation et une catégorisation des dépenses.",
+          "tech": "React Native, GraphQL, AWS",
+          "url": "#"
+        },
+        {
+          "title": "Tableau de bord DevMetrics",
+          "type": "Outil Développeur",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+          "description": "Outil de productivité pour développeurs qui s'intègre à GitHub et Jira pour fournir des métriques exploitables.",
+          "tech": "Next.js, PostgreSQL, Docker",
+          "url": "#"
+        }
+      ],
+      "experiences": [
+        {
+          "role": "Ingénieur Frontend Senior",
+          "company": "TechCorp",
+          "period": "2023 - Présent",
+          "description": "Direction de l'équipe UI principale, amélioration des performances de rendu de 40%."
+        },
+        {
+          "role": "Développeur Web",
+          "company": "Agence Créative",
+          "period": "2021 - 2023",
+          "description": "Création d'expériences web interactives et de tableaux de bord pour divers clients."
+        },
+        {
+          "role": "Développeur Junior",
+          "company": "Startup Inc",
+          "period": "2019 - 2021",
+          "description": "Développement de pages de destination réactives et d'outils d'administration internes."
+        }
+      ],
+      "repos": [
+        {
+          "name": "discord-clone",
+          "description": "Un clone Discord entièrement fonctionnel construit avec React et des sockets en temps réel.",
+          "stars": 128,
+          "forks": 32,
+          "language": "TypeScript",
+          "languageColor": "#3178C6",
+          "url": "#"
+        },
+        {
+          "name": "modern-portfolio",
+          "description": "Un tableau de bord de portfolio élégant au thème sombre.",
+          "stars": 85,
+          "forks": 12,
+          "language": "TypeScript",
+          "languageColor": "#3178C6",
+          "url": "#"
+        },
+        {
+          "name": "react-masonry-grid",
+          "description": "Un composant de mise en page maçonnerie léger pour React.",
+          "stars": 45,
+          "forks": 8,
+          "language": "JavaScript",
+          "languageColor": "#F1E05A",
+          "url": "#"
+        },
+        {
+          "name": "terminal-ui",
+          "description": "Style d'interface en ligne de commande pour les applications web.",
+          "stars": 210,
+          "forks": 45,
+          "language": "CSS",
+          "languageColor": "#563D7C",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}
