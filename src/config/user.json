@@ -155,12 +155,12 @@
       ],
       "projects": [
         {
-          "title": "Portfolio V1",
-          "type": "Application Web",
-          "image": "https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-          "description": "Mon premier portfolio développeur construit avec React, TypeScript et Vite. Design inspiré de Discord avec support bilingue.",
-          "tech": "React, TypeScript, Vite, Tailwind CSS",
-          "url": "https://github.com/boukottaya"
+          "title": "Echelon",
+          "type": "Web App",
+          "image": "https://i.ibb.co/d4kKH1SW/image-2026-03-30-161415391.png",
+          "description": "Registre architectural et outil de suivi budgétaire premium, construit avec Next.js 15, Supabase et des visualisations Recharts personnalisées.",
+          "tech": "NextJS, Typescript, Supabase",
+          "url": "https://budget-planner-six-rho.vercel.app"
         },
         {
           "title": "FinanceFlow AI",
