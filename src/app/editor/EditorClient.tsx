@@ -8,7 +8,8 @@ import { BioSection } from "./sections/BioSection";
 import { LabelsSection } from "./sections/LabelsSection";
 import { ExperiencesSection } from "./sections/ExperiencesSection";
 import { ProjectsSection } from "./sections/ProjectsSection";
-import { Save, CheckCircle, XCircle, Loader2 } from "lucide-react";
+import { Save, CheckCircle, XCircle, Loader2, ArrowLeft } from "lucide-react";
+import Link from "next/link";
 
 type SaveState = "idle" | "saving" | "saved" | "error";
 
@@ -61,12 +62,21 @@ export function EditorClient() {
     <div className="min-h-screen bg-[#1e1f22] text-[#dbdee1]">
       {/* Sticky header */}
       <header className="sticky top-0 z-50 bg-[#1e1f22]/90 backdrop-blur border-b border-[#3f4147] px-6 py-4 flex items-center justify-between">
-        <div>
-          <h1 className="text-white font-bold text-lg">Portfolio Editor</h1>
-          <p className="text-[#949ba4] text-xs">
-            Dev only — changes are written directly to{" "}
-            <code className="text-[#5865F2]">src/config/user.json</code>
-          </p>
+        <div className="flex items-center gap-3">
+          <Link
+            href="/"
+            className="text-[#949ba4] hover:text-white transition-colors"
+            aria-label="Back to portfolio"
+          >
+            <ArrowLeft size={20} />
+          </Link>
+          <div>
+            <h1 className="text-white font-bold text-lg">Portfolio Editor</h1>
+            <p className="text-[#949ba4] text-xs">
+              Dev only — changes are written directly to{" "}
+              <code className="text-[#5865F2]">src/config/user.json</code>
+            </p>
+          </div>
         </div>
 
         <button

@@ -15,8 +15,10 @@ out/
 
 # TypeScript
 tsconfig.tsbuildinfo
+next-env.d.ts
 
 # Claude / local tooling
 .claude/
 .mcp.json
-C:*
+# Claude signal files
+*claude-notify-signals*

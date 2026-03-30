@@ -11,15 +11,34 @@
   "skills": [
     {
       "category": "Frontend",
-      "items": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Vue.js"]
+      "items": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Tailwind CSS",
+        "Vue.js"
+      ]
     },
     {
       "category": "Backend",
-      "items": ["Node.js", "GraphQL"]
+      "items": [
+        "Node.js",
+        "GraphQL"
+      ]
     },
     {
       "category": "Infra & Tools",
-      "items": ["Vercel", "Docker", "Git", "GitHub", "Gitlab", "Jira", "Notion", "Stripe", "Supabase"]
+      "items": [
+        "Vercel",
+        "Docker",
+        "Git",
+        "GitHub",
+        "Gitlab",
+        "Jira",
+        "Notion",
+        "Stripe",
+        "Supabase"
+      ]
     }
   ],
   "i18n": {
@@ -67,12 +86,12 @@
       ],
       "projects": [
         {
-          "title": "Portfolio V1",
+          "title": "Echelon",
           "type": "Web App",
-          "image": "https://images.unsplash.com/photo-1649451844931-57e22fc82de3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-          "description": "My first developer portfolio built with React, TypeScript and Vite. Features a Discord-inspired design with bilingual support.",
-          "tech": "React, TypeScript, Vite, Tailwind CSS",
-          "url": "https://github.com/boukottaya"
+          "image": "https://i.ibb.co/d4kKH1SW/image-2026-03-30-161415391.png",
+          "description": "Premium Architectural Ledger & Budget Tracker built with Next.js 15, Supabase, and custom Recharts visualizations.",
+          "tech": "NextJS, Typescript, Supabase",
+          "url": "https://budget-planner-six-rho.vercel.app"
         },
         {
           "title": "FinanceFlow AI",
